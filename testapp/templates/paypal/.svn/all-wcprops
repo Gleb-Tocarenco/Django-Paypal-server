@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/testapp/templates/paypal
+END
+setcheckout.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/testapp/templates/paypal/setcheckout.html
+END
+dorefund.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/testapp/templates/paypal/dorefund.html
+END
+docheckout.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/testapp/templates/paypal/docheckout.html
+END
